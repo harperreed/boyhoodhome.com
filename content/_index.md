@@ -9,7 +9,7 @@ authors = "Dylan Reed and Harper Reed"
 
 #### By @harper and @dylanreed
 
-My brother, Dylan Reed, and I were trying to figure out what the "next" prank would be after [we wrapped our parents car with a zebra pattern](http://zebraprank.com). We wanted to make sure that it was a really great prank and something that was more permanent. 
+In the summer of 2016, my brother, Dylan Reed, and I were trying to figure out what the "next" prank would be after [we wrapped our parents car with a zebra pattern](http://zebraprank.com). We wanted to make sure that it was a really great prank and something that was more permanent. 
 
 At the time I was traveling to London a lot and always liked seeing the historical markers on every other building around London. We thought maybe that would be a funny thing to add to our parents house: **A historical monument**
 
