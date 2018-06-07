@@ -4,7 +4,7 @@ title = "The boyhood home of Harper and Dylan Reed"
 theme = "harperrules-single-hugo"
 publishDir = "docs"
 copyright = "Summer 2016"
-disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT", "home", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT",  "section"]
 
 [params]
   ga_id = "UA-70650-77"
