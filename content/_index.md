@@ -35,7 +35,7 @@ A video of it being placed:
 
 It is really awesome and helps identify what an important place our parents house is. 
 
-The full text reads: **Boyhood home of Harper and Dylan Reed. The first Astronauts to explore Uranus. **
+The full text reads: Boyhood home of Harper and Dylan Reed. The first Astronauts to explore Uranus. 
 
 A couple notes: 
 
