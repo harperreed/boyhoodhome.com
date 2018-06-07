@@ -5,7 +5,7 @@ theme = "harperrules-single-hugo"
 publishDir = "docs"
 
 [params]
-  ga_id = "UA-70650-78"
+  ga_id = "UA-70650-77"
 
 [Permalinks]
 page= "/:filename/"
