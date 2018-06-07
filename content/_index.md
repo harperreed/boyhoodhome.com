@@ -31,7 +31,7 @@ Up close on the panel
 
 A video of it being placed:
 
-{{< youtube Ge7DeCK7xek >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ge7DeCK7xek?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It is really awesome and helps identify what an important place our parents house is. 
 
