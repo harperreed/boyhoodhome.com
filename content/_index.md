@@ -1,8 +1,11 @@
 +++
 title = "The boyhood home of Harper and Dylan Reed"
-description = "The boyhood home of Harper and Dylan Reed"
+description = "A simple prank by Harper and Dylan Reed. We made a monument. We are geniuses."
 lastmod = "2018-01-01"
 authors = "Dylan Reed and Harper Reed"
+image = "http://www.boyhoodhome.com/images/IMG_2153.jpg"
+
+
 +++
 
 # The boyhood home of Harper and Dylan Reed
